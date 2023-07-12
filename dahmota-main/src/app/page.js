@@ -25,7 +25,7 @@ export default function Home() {
 
         <Flex align="center">
           <Button color="#FFF" variant="unstyled">
-            Sobre
+            Sobre nos
           </Button>
           <Button color="#FFF" variant="unstyled" marginX="20px">
             Galeria
